@@ -1,0 +1,5 @@
+package com.peaas.fsm.enums;
+
+public enum Events {
+	ROUTING_SUCCESS, ROUTING_ERROR, PUSH_TO_AMIGO, SCREENING_SUSPENDED, SCREENING_DONE
+}
